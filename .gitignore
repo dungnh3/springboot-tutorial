@@ -8,3 +8,5 @@ mvnw\.cmd
 \.idea/
 
 target/
+
+hello-world-example/hello-world-example\.iml
